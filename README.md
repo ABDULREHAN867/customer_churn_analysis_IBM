@@ -3,6 +3,9 @@
 Interactive Power BI dashboard analyzing 
 customer churn patterns for a telecom company.
 
+## 📸 Dashboard Preview
+![Dashboard](Screenshot%202026-03-30%20112429.png)
+
 ## 📊 Key Metrics
 - Total Customers: 7,043
 - Churned Customers: 1,869
